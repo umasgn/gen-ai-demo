@@ -61,10 +61,6 @@ function ChatContainer() {
             onClick={handleSend}
           />
         </span>
-        <p className="lg:text-xs text-gray-400 text-center text-[10px]">
-          Free Research Preview. ChatGPT may produce inaccurate information
-          about people, places, or facts. ChatGPT August 3 Version
-        </p>
       </div>
     </div>
   );
